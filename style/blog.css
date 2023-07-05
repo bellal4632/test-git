@@ -2,31 +2,45 @@
     margin: 0;
     padding: 0;
 }
-body{
+
+body {
     background-color: bisque;
     padding: 5px;
 }
 
+.link {
+    text-decoration: none;
+    background-color: brown;
+    padding: 5px;
+    margin: 5px;
+    color: white;
+    border: 3px solid black;
+}
+
 div {
-    background-color:cornflowerblue;
+    background-color: cornflowerblue;
     padding: 5px;
     margin: 10px;
     border: 5px solid tomato;
     border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+
 }
 
 h3 {
     margin: 5px;
     padding: 10px;
-    color:white;
+    color: white;
     background-color: blueviolet;
 }
 
 p {
     margin: 5px;
     padding: 5px;
-    color:azure;
+    color: azure;
 }
-img{
+
+img {
     width: 100%;
 }
