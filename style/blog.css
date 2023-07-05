@@ -1,4 +1,19 @@
-div{
-    background-color:brown;
-    color:cyan;
+* {
+    margin: 0;
+}
+
+div {
+    background-color:hotpink;
+    padding: 10px;
+    margin: 10px;
+}
+
+h3 {
+    margin: 2px;
+    color:white;
+}
+
+p {
+    margin: 5px;
+    color:azure;
 }
